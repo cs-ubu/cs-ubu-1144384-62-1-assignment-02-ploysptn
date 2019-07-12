@@ -1,0 +1,21 @@
+{
+  "name": "cs-ubu-1144384-62-1-assignment-02-ploysptn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs-ubu/cs-ubu-1144384-62-1-assignment-02-ploysptn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs-ubu/cs-ubu-1144384-62-1-assignment-02-ploysptn/issues"
+  },
+  "homepage": "https://github.com/cs-ubu/cs-ubu-1144384-62-1-assignment-02-ploysptn#readme",
+  "description": ""
+}
